@@ -5,20 +5,19 @@
 
 ``` bash
 
-https://raw.githubusercontent.com/prasanth-snk/youtube_m3u/main/youtube.m3u
+https://prasanth-snk.github.io/youtube_m3u/youtube.m3u
 ```
 
-Works best with : [Perfect Player IPTV](http://niklabs.com/) ,
-                  [Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=en_IN&gl=US) ,
-                  [OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator&hl=en_IN&gl=US) ,
-                  [Televizo - IPTV player](https://play.google.com/store/apps/details?id=com.ottplay.ottplay) ,
-                  [TVirl. IPTV](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl)  for **Android TV** / **Firestick** / **Android Box**.
+Works best with :   [Online Tv](https://play.google.com/store/apps/details?id=com.sp.tv) ,
+                    [Online Tv (For TV)](https://play.google.com/store/apps/details?id=com.sp.onlinetv) ,
+                    [Malayalam TV](https://play.google.com/store/apps/details?id=com.sp.tvmalayalam) ,
+                    [Tamil TV](https://play.google.com/store/apps/details?id=com.sp.tvtamil) for **Android TV** / **Firestick** / **Android Box**.
 
 Updated m3u links of YouTube live channels, **auto-updated every 2 hours**.
 
 
 ### Usage
-Paste this URL: 'https://raw.githubusercontent.com/prasanth-snk/youtube_m3u/main/youtube.m3u' to any player which supports M3U playlists
+Paste this URL: 'https://prasanth-snk.github.io/youtube_m3u/youtube.m3u' to any player which supports M3U playlists
 
 ### Run the tool on your local machine
 ``` bash
