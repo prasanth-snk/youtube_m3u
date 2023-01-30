@@ -1,7 +1,7 @@
 # This is a basic workflow to help you get started with Actions
 
 name: M3U generator
-permissions: read-all|write-all
+permissions: {}
 # Controls when the action will run. 
 on:
   schedule:
