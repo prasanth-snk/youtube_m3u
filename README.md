@@ -6,6 +6,8 @@
 ``` bash
 
 https://prasanth-snk.github.io/youtube_m3u/youtube.m3u
+https://prasanth-snk.github.io/youtube_m3u/malayalam.m3u
+https://prasanth-snk.github.io/youtube_m3u/tamil.m3u
 ```
 
 Works best with :   [Online Tv](https://play.google.com/store/apps/details?id=com.sp.tv) ,
@@ -17,12 +19,12 @@ Updated m3u links of YouTube live channels, **auto-updated every 2 hours**.
 
 
 ### Usage
-Paste this URL: 'https://prasanth-snk.github.io/youtube_m3u/youtube.m3u' to any player which supports M3U playlists
+Paste this URL: https://prasanth-snk.github.io/youtube_m3u/youtube.m3u to any player which supports M3U playlists
 
 ### Run the tool on your local machine
 ``` bash
 git clone https://github.com/prasanth-snk/youtube_m3u.git
-cd YouTube_to_m3u
+cd youtube_m3u
 chmod +x autorun.sh
 ./autorun.sh
 ```
