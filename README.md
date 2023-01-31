@@ -17,6 +17,11 @@ https://prasanth-snk.github.io/youtube_m3u/malayalam.m3u
 https://prasanth-snk.github.io/youtube_m3u/tamil.m3u
 ```
 
+### Sports Channels
+``` bash
+https://prasanth-snk.github.io/youtube_m3u/sports.m3u
+```
+
 Works best with :   [Online Tv](https://play.google.com/store/apps/details?id=com.sp.tv) ,
                     [Online Tv (For TV)](https://play.google.com/store/apps/details?id=com.sp.onlinetv) ,
                     [Malayalam TV](https://play.google.com/store/apps/details?id=com.sp.tvmalayalam) ,
