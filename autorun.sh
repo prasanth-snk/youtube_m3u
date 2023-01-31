@@ -14,4 +14,6 @@ python3 youtube_m3ugrabber_tamil.py > ../tamil.m3u
 
 python3 youtube_m3ugrabber_kids.py > ../kids.m3u
 
+python3 youtube_m3ugrabber_sports.py > ../sports.m3u
+
 echo m3u grabbed
