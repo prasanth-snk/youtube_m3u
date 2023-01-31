@@ -1,12 +1,22 @@
 
-<h1 align="center"> YouTube_m3u </h1>
+<h1 align="center"> YouTube m3u </h1>
 
 [![M3U generator for YouTube](https://github.com/prasanth-snk/youtube_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/prasanth-snk/youtube_m3u/actions/workflows/m3u_Generator.yml)
 
+### All Channels
 ``` bash
 
 https://prasanth-snk.github.io/youtube_m3u/youtube.m3u
+```
+### Malayalam Channels
+``` bash
+
 https://prasanth-snk.github.io/youtube_m3u/malayalam.m3u
+```
+
+### Tamil Channels
+``` bash
+
 https://prasanth-snk.github.io/youtube_m3u/tamil.m3u
 ```
 
