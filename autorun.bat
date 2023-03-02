@@ -10,3 +10,5 @@ python youtube_m3ugrabber_tamil.py > ../tamil.m3u
 python youtube_m3ugrabber_kids.py > ../kids.m3u
 
 python youtube_m3ugrabber_sports.py > ../sports.m3u
+
+python JTV_RefreshToken.py > ../token.json
