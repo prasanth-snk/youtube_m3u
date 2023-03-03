@@ -16,6 +16,4 @@ python3 youtube_m3ugrabber_kids.py > ../kids.m3u
 
 python3 youtube_m3ugrabber_sports.py > ../sports.m3u
 
-python3 JTV_RefreshToken.py > ../token.json
-
 echo m3u grabbed
